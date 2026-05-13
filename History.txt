@@ -1,0 +1,4 @@
+Customer.ID|Customer.Name|Date|Time|Doctor.ID|Doctor.Name|Doctor.Comment|Bill
+C0012|Khee En|2025-08-29|8pm|D004|Sean|take antibiotics|100
+C0012|Khee En|2025-09-30|6pm|D004|Sean|Suggest nose surgery|100.50
+C0012|Khee En|2025-10-01|1pm|D004|Sean|Too hot. Give more panadol.|12.50

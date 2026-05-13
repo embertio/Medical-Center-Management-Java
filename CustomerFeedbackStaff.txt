@@ -1,0 +1,4 @@
+Cus.ID|Cus.Name|Staff.ID|Staff.Name|Date|Comment
+C0001|John|S001|Yu Xuan|17-09-2025|Nice and attentive
+C0017|Jowen|S001|Yu Xuan|06-09-2025|Popular!
+C0017|Jowen|S003|Ember|05-09-2025|Pretty

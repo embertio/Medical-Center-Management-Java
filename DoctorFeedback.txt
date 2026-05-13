@@ -1,0 +1,6 @@
+C0012|Khee|2025-09-27|12pm|D004|Teo|Dying Soon. RIP. Give more Panadol.|1000
+C0012|Khee|2025-09-28|1pm|D004|Teo|Too hot. Brain sotsot soon. Need ice.|0.50
+C0012|Khee|2025-09-30|2pm|D004|Teo|Suggest to have nose surgery ASAP.|5000
+C0012|Khee|2025-10-01|3pm|D004|Teo|Cannot speak. Need learn sign language.|99.99
+C0012|Khee|2025-10-02|4pm|D004|Teo|Suggest to quarantine for 1 year.|6.66
+C0012|Khee|2025-09-29|1pm|D004|Teo|Dying soon. Prescribe anesthesia|100.50
