@@ -49,3 +49,6 @@ A comprehensive desktop-based healthcare management solution built with Java Swi
 2. Open the project folder in **NetBeans** or any Java IDE.
 3. Ensure the `.txt` database files are in the root directory.
 4. Run the `Login.java` or `Main.java` file.
+
+<img width="1406" height="547" alt="image" src="https://github.com/user-attachments/assets/7c92a5bb-8552-497a-b950-a4f1f331169e" />
+
