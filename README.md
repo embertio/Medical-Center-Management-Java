@@ -1,6 +1,7 @@
 # Medical Center Management System (Java)
 A comprehensive desktop-based healthcare management solution built with Java Swing. This system implements **Role-Based Access Control (RBAC)** to provide a secure and tailored experience for four distinct user roles, managing everything from clinical records to financial receipts.
 
+---
 
 # 🚀 Core Functionalities
 
@@ -24,6 +25,7 @@ A comprehensive desktop-based healthcare management solution built with Java Swi
 * **Booking System:** View and schedule appointments at the center.
 * **Feedback Loop:** Submit comments and feedback regarding doctors and staff performance.
 
+---
 
 # 🛠️ Tech Stack
 
@@ -32,6 +34,7 @@ A comprehensive desktop-based healthcare management solution built with Java Swi
 * **Data Storage:** Flat File Database (.txt) utilizing Java File I/O for persistent records.
 * **UI Components:** Integrated JCalendar/JDateChooser for precise date management.
 
+---
 
 # 🔑 Getting Started
 
@@ -43,6 +46,7 @@ A comprehensive desktop-based healthcare management solution built with Java Swi
 | **Doctor**   |   D001   | 990113139292 |
 | **Customer** |   John   | 050101028474 |
 
+---
 
 # **How to Run**
 1. Clone the Repo: `git clone https://github.com/YOUR_USERNAME/Medical-Center-Management-Java.git`
@@ -50,5 +54,24 @@ A comprehensive desktop-based healthcare management solution built with Java Swi
 3. Ensure the `.txt` database files are in the root directory.
 4. Run the `Login.java` or `Main.java` file.
 
-<img width="1406" height="547" alt="image" src="https://github.com/user-attachments/assets/7c92a5bb-8552-497a-b950-a4f1f331169e" />
+---
+
+# **Sample Output**
+
+### **Manager Main Menu**
+<img width="763" height="579" alt="image" src="https://github.com/user-attachments/assets/95bf8dfa-fa85-4b58-b05a-7a64851a6b8b" />
+
+### **Staff Main Menu**
+<img width="1277" height="620" alt="image" src="https://github.com/user-attachments/assets/94ce45d4-cb3b-442d-ac9b-562d42b6dfed" />
+
+### **Doctor Main Menu**
+<img width="837" height="516" alt="image" src="https://github.com/user-attachments/assets/972240a8-e0cf-4ead-aeae-e6a9f934505e" />
+
+### **Customer Main Menu**
+<img width="1122" height="592" alt="image" src="https://github.com/user-attachments/assets/ce44300d-27be-4461-9711-578edb9aa63f" />
+
+
+
+
+
 
